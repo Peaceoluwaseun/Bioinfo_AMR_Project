@@ -24,11 +24,13 @@ Bioinfo_AMR_Project/
 │ ├── ecoli_genomes/
 │ └── CARD_database/
 │
+
 ├── scripts/
 │ ├── amr_pipeline.sh
 │ ├── amr_barplot.py
 │ └── amr_heatmap.py
 │
+
 ├── analysis/
 │ ├── BLAST_results
 │ ├── filtered_results
